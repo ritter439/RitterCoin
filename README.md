@@ -1,0 +1,2 @@
+# RitterCoin
+Ritter! 
